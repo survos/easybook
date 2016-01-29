@@ -27,7 +27,7 @@
         "symfony/finder"           : "2.4.2",
         "symfony/process"          : "2.4.2",
         "symfony/yaml"             : "2.4.2",
-        "twig/twig"                : "1.15.1",
+        "twig/twig"                : ~,
         "zendframework/zendpdf"    : "2.0.2"
     },
 
