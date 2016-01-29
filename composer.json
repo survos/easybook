@@ -1,5 +1,5 @@
 {
-    "name":        "easybook/easybook",
+    "name":        "survos/easybook",
     "description": "Book publishing application",
     "keywords":    ["book", "publish", "ebook", "e-book", "documentation", "pdf", "epub"],
     "homepage":    "http://easybook-project.org",
